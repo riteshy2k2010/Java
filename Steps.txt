@@ -1,0 +1,25 @@
+Case 1: Strut 1
+SEQUENCE = > CNT => DATA > BO => DAO
+
+procedureExecutor.jsp
+
+QueryReportCNT.java = ACTION FILE/ CONTROLLER
+
+QueryReportFB.java = FORM BEAN/ MODEL
+
+QueryReportDATA.java = DATA OBJECT
+
+QueryReportBO.java = BUSSNESS OBJECT
+
+QueryReportVo.java = VALUE OBJECT
+
+QueryReportDAO.java = DATA ACCESS OBJECT
+
+Database.sql = PROCEDURE FILE
+
+RESULT = procedureExecutor.jsp = VIEW FILE
+
+
+Case 2: STRUT 2
+SEQUENCE = > ACTION => UTIL => DATA > VO => DAO
+
